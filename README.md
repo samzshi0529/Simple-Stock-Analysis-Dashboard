@@ -12,6 +12,10 @@
 - `numpy`
 - `technical_analysis` (假设为技术指标分析库)
 
+可以使用pip命令来安装这些依赖：
+```shell
+pip install cmdstanpy yfinance plotly pandas numpy technical_analysis
+
 ## 日志配置
 ```python
 import logging
