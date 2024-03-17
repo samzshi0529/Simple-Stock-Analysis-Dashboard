@@ -19,6 +19,20 @@ By using this dashboard, you acknowledge and agree that you have read and unders
 ## 使用方法
 在开始使用前，请确保你已经根据安装说明配置好了环境和所需的依赖库。在安装好所需的库后，只需使用支持Jupyter Notebook的编译器（Anaconda或Google Colab）运行该repository中的Dashboard Code.ipynb即可。
 
+## 安装依赖
+在使用看板之前，请确保已经安装了以下Python库：
+- `cmdstanpy`: 用于统计建模和贝叶斯分析。
+- `yfinance`: 提供下载历史市场数据的功能。
+- `plotly`: 一个强大的绘图库，支持多种图表类型。
+- `pandas`: 提供高性能、易用的数据结构和数据分析工具。
+- `numpy`: 基础科学计算库，支持多维数组和矩阵运算。
+- `technical_analysis`: 这是一个假设的库名，假设用于计算股票的技术指标。
+
+可以使用pip命令来安装这些依赖：
+```shell
+pip install cmdstanpy yfinance plotly pandas numpy technical_analysis
+```
+
 ### 选择分析模式
 1. **单股票分析（Single Stock）**：选择此模式以分析一支单一证券，并查看其技术指标和预测。
 2. **多股票分析（Multiple Stock）**：选择此模式以比较两支股票的价格走势和技术指标。
