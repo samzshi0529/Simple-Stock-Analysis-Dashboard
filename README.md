@@ -1,5 +1,17 @@
 # 股票分析看板使用说明
 
+# Disclaimer
+
+This Stock Analysis Dashboard is provided for educational and entertainment purposes only. It is not intended for real-world investment or financial advice. Users should conduct their own due diligence and consult with professional financial advisors before making any investment decisions. The creators of this dashboard make no representations or warranties regarding the accuracy, completeness, or reliability of any information provided. Use of the dashboard is at the user's own risk.
+
+By using this dashboard, you acknowledge and agree that you have read and understood this disclaimer.
+
+# 免责声明
+
+本股票分析看板仅供教育和娱乐目的使用，并不意味着用于实际投资或提供财务咨询。用户应进行自己的尽职调查，并在作出任何投资决策前咨询专业财务顾问。本看板的创建者不对提供的任何信息的准确性、完整性或可靠性作出任何表示或保证。使用该看板风险由用户自担。
+
+通过使用本看板，您确认并同意您已阅读并理解此免责声明。
+
 ## 简介
 制作了一个供自己娱乐使用的简单股票分析看板。
 
@@ -54,3 +66,9 @@
 - 选择的日期范围应该在股票的交易历史之内。
 - 技术指标的选择会影响图表的绘制，合理选择以获得最有用的分析结果。
 - 股价预测基于历史数据进行，任何分析结果仅供参考，投资决策需要谨慎。
+
+## 使用限制
+- 您被明确禁止将本看板用于实际投资或财务咨询。
+- 本看板按“现状”提供，不附带任何形式的明示或暗示保证。使用本看板的风险由您自己承担。
+- 您不得以任何可能损害作者或任何第三方的方式使用本看板。
+- 未经作者书面明确授权，严禁将本看板用于商业用途。
