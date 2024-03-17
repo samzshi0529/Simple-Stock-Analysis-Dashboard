@@ -10,8 +10,13 @@
 1. **单股票分析（Single Stock）**：选择此模式以分析一支单一证券，并查看其技术指标和预测。
 2. **多股票分析（Multiple Stock）**：选择此模式以比较两支股票的价格走势和技术指标。
 
+### 如何查询股票代码
+- **看板使用Yahoo Finance的代码**：前往Yahoo Finance查询你感兴趣的证券，证券的代码便会出现在名字上；例如沪深300指数CSI300的代码就是如图的000300.SS。
+<img width="295" alt="Screenshot 2024-03-17 at 11 57 43 AM" src="https://github.com/samzshi0529/Simple-Stock-Analysis-Dashboard/assets/60007017/d2d9e357-1b33-471e-b81c-08219e5a4b1b">
+
 ### 输入股票代码
 - **股票代码 1（Ticker 1）**：输入你想分析的第一支股票的代码。
+
 - **股票代码 2（Ticker 2）**：在多股票分析模式下，输入第二支想要比较的股票代码。
 
 ### 选择日期范围
