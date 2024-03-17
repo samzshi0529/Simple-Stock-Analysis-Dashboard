@@ -14,6 +14,7 @@ By using this dashboard, you acknowledge and agree that you have read and unders
 
 ## 简介
 制作了一个供自己娱乐使用的简单股票分析看板。
+<img width="976" alt="Screenshot 2024-03-17 at 12 34 09 PM" src="https://github.com/samzshi0529/Simple-Stock-Analysis-Dashboard/assets/60007017/d0944539-5778-43dc-b31b-c352b71305de">
 
 ## 使用方法
 在开始使用前，请确保你已经根据安装说明配置好了环境和所需的依赖库。在安装好所需的库后，只需使用支持Jupyter Notebook的编译器（Anaconda或Google Colab）运行该repository中的Dashboard Code.ipynb即可。
