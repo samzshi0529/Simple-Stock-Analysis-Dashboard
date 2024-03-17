@@ -4,7 +4,7 @@
 制作了一个供自己娱乐使用的简单股票分析看板。
 
 ## 使用方法
-在开始使用前，请确保你已经根据安装说明配置好了环境和所需的依赖库。在安装好所需的库后，只需运行该repository中的Dashboard Code.ipynb即可。
+在开始使用前，请确保你已经根据安装说明配置好了环境和所需的依赖库。在安装好所需的库后，只需使用支持Jupyter Notebook的编译器（Anaconda或Google Colab）运行该repository中的Dashboard Code.ipynb即可。
 
 ### 选择分析模式
 1. **单股票分析（Single Stock）**：选择此模式以分析一支单一证券，并查看其技术指标和预测。
