@@ -14,10 +14,10 @@
 
 可以使用pip命令来安装这些依赖：
 ```shell
-pip install cmdstanpy yfinance plotly pandas numpy technical_analysis
+pip install cmdstanpy yfinance plotly pandas numpy technical_analysis```
 
 ## 日志配置
 ```python
 import logging
 cmdstanpy_logger = logging.getLogger("cmdstanpy")
-cmdstanpy_logger.disabled = True
+cmdstanpy_logger.disabled = True```
