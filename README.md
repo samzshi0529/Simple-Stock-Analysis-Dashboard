@@ -18,7 +18,7 @@ By using this dashboard, you acknowledge and agree that you have read and unders
 
 ## 使用方法
 在开始使用前，请确保你已经根据安装说明配置好了环境和所需的依赖库。在安装好所需的库后，只需使用支持Jupyter Notebook的编译器（Anaconda或Google Colab）运行该repository中的Dashboard Code.ipynb即可。
-![替代文本](instruction (1).gif)
+![替代文本](/instruction.gif)
 ### 安装依赖
 在使用看板之前，请确保已经安装了以下Python库：
 - `cmdstanpy`: 用于统计建模和贝叶斯分析。
